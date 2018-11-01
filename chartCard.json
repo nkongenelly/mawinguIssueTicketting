@@ -1,0 +1,67 @@
+{
+    "schemaVersion": 1,
+    "schema": {
+        "type": "container",
+        "initialHeight": 300,
+        "layout": "vertical",
+        "children": [
+            {
+                "type": "text",
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 10,
+                "paddingBottom": 10,
+                "string":"MAWINGU NETWORK LTD",
+                "fontStyle": "bold",
+                "fontSize": 18,
+                "textColor": "#ffffff",
+                "backgroundColor": "#00bfff",
+                "textAlignment": "center",
+                "maxNumberOfLines": 1
+                
+            },
+            {
+                "type": "text",
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 10,
+                "paddingBottom": 5,
+                "string":"Tickect Details",
+                "fontStyle": "bold",
+                "fontSize": 18,
+                "textColor": "#fcb72d",
+                "backgroundColor": "#ffffff",
+                "textAlignment": "center",
+                "maxNumberOfLines": 1,
+                "marginBottom": 2
+            },
+            {
+                "type": "text",
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "paddingTop": 5,
+                "paddingBottom": 5,
+                "string":"${MyLatestResponse.questionToAnswerMap[0]}",
+                "fontSize": 18,
+                "textColor": "#000000",
+                "backgroundColor": "#ffffff",
+                "textAlignment": "left",
+                "maxNumberOfLines": 1,
+                "marginBottom": 2
+            },
+            {
+                "type": "text",
+                "paddingLeft": 10,
+                "paddingRight": 10,
+                "string":"${MyLatestResponse.questionToAnswerMap[4]}",
+                "fontSize": 18,
+                "fontStyle": "regular",
+                "textColor": "#000000",
+                "backgroundColor": "#ffffff",
+                "textAlignment": "left",
+                "maxNumberOfLines": 2,
+                "marginBottom": 5
+            }
+        ]
+    }
+}

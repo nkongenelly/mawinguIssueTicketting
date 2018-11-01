@@ -1,0 +1,55 @@
+{
+    "strMiniAppTitle": "Ticket Details",
+    "Customer Name": "Customer Full Name",
+    "Customer Phone": "Customer Phone Number",
+    "Customer": "Customer",
+
+
+    "Issue": "Issue",
+
+    "Consumer - Merchant": "Consumer - Merchant",
+    "Consumer - Customer": "Consumer - Customer",
+    "Enterprise": "Enterprise",
+
+    "Billing & Financials": "Billing & Financials",
+    "Technical and Network": "Technical and Network",
+    "Operations": "Operations",
+    "Sales & Markerting": "Sales & Markerting",
+    "Customer Service": "Customer Service",
+
+    "Nanyuki": "Nanyuki",
+    "Meru": "Meru",
+    "Kirinyaga": "Kirinyaga",
+    "Nyeri": "Nyeri",
+    "Embu": "Embu",
+    "Isiolo": "Isiolo",
+    "Muranga": "Muranga",
+    
+    "Region": "Region",
+    "Area": "Area",
+
+    "Slow speeds": "Slow speeds",
+    "Splash page": "Splash page",
+    "No internet": "No internet",
+    "Damaged equipment": "Damaged equipment",
+    "Intermittent connection (on & Off)": "Intermittent connection (on & Off)",
+    "Billing and Finance (Payments)": "Billing and Finance (Payments)",
+
+    "Issue Details": "Issue Details",
+    "Name": "Commando Name",
+    "Phone No": "Commando Phone",
+    "Location": "Commando Location",
+    "strTapToEnter": "Tap to enter",
+    "strSelectYourResponse": "Select your reponse",
+    "strMiniAppYourDetails": "Your Details",
+    "strNoLocationLabel": "Due to poor network connectivity, your location could not be fetched",
+    "strRefreshLabel": "REFRESH",
+    "strMiniAppLocationNetworkWarningLabel": "Due to poor network connectivity, your location map could not be fetched. Your location co-ordinates will be shared instead",
+    "strMiniAppLoadingLabel": "Please wait while we try to fetch your location",
+    "strNoLocationAlertLabel": "Location not found. Please ensure that you have turned on location services and provided Kaizala the location permission. Tap on refresh below to try fetching location again",
+    "strProgressTextLabel": "{0} of {1}",
+    "strConnectGroupName": "Need To change",
+    "strMiniAppHeaderTimeLabel": "Created by you at {0}",
+    "strSendResponseLabel": "SUBMIT",
+    "Response Time": "Response Time"
+}

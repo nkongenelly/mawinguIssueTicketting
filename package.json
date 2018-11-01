@@ -1,0 +1,38 @@
+{
+    "id": "com.mawinguIssue.ticketing",
+    "schemaVersion": 1,
+    "version": "5",
+    "minorVersion": 4,
+    "providerName": "NanyukiAF",
+    "displayName": "Mawingu Issue Ticket annc2",
+    "description": "Report client issues",
+    "icon": "issue.png",
+    "appModel": "AppModel.json",
+    "dials": {
+        "isLocalised": false,
+        "isPinned": false
+    },
+    "actionScope": "Group",
+    "views": {
+        "ChatCanvasCardView": {
+            "sourceLocation": "chartCard.json",
+            "showHeader": false,
+            "labelResponseSending": "Submitting your issue details",
+            "labelResponded": "You have provided your issue details",
+            "labelResponseFailed": "Issue Details submission failed",
+            "labelRespondToForm": "CONFIRM ISSUE DETAILS",
+            "showFooter": false,
+            "showLikes": false,
+            "showComments": false,
+            "isResponseEditable": false
+        },
+        "CreationView": {
+            "sourceLocation": "Response.html",
+            "showNativeToolbar": false
+        },
+        "ResponseResultsView": {
+            "sourceLocation": "ResponseSummary.html",
+            "showNativeToolbar": false
+        }
+    }
+}

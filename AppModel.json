@@ -1,0 +1,96 @@
+{
+    "title": "Ticket Details",
+    "visibility": "All",
+    "expiry": 0,
+    "isAnonymous": false,
+    "isResponseAppended": true,
+    "isLocationRequested": false,
+    "questions": [{
+            "title": "Customer Name",
+            "type": "Text"
+        },
+        {
+            "title": "Customer Phone",
+            "type": "Text"
+        },
+        {
+            "title": "Region",
+            "type": "SingleSelect",
+            "options": [{
+                    "title": "Embu"
+                },
+                {
+                    "title": "Meru"
+                },
+                {
+                    "title": "Nyeri"
+                },
+                {
+                    "title": "Isiolo"
+                },
+                {
+                    "title": "Muranga"
+                },
+                {
+                    "title": "Nanyuki"
+                },
+
+                {
+                    "title": "Kirinyaga"
+                }
+            ]
+        },
+
+        {
+            "title": "Area",
+            "type": "Text"
+        },
+        {
+            "title": "Issue",
+            "type": "SingleSelect",
+            "options": [{
+                    "title": "Slow speeds"
+                },
+                {
+                    "title": "Splash page"
+                },
+                {
+                    "title": "No internet"
+                },
+                {
+                    "title": "Damaged equipment"
+                },
+                {
+                    "title": "Intermittent connection (on & Off)"
+                },
+                {
+                    "title": "Billing and Finance (Payments)"
+                }
+            ]
+        },
+        {
+            "title": "Issue Details",
+            "type": "Text"
+        },
+        {
+            "title": "Name",
+            "type": "Text"
+        },
+        {
+            "title": "Phone No",
+            "type": "Text"
+        },
+        {
+            "title": "Location",
+            "type": "Location"
+        },
+        {
+            "title": "Response Time",
+            "type": "DateTime"
+        },
+        {
+            "title": "Customer",
+            "type": "Text"
+        }
+    ]
+}
